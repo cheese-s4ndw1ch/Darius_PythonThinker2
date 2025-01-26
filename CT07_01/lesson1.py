@@ -56,3 +56,25 @@
 
 # print (cost)
 
+# score_one = 80
+# score_two = 90
+# score_three = 75
+
+# total = score_one + score_two + score_three
+
+# average_score = total / 3
+
+# student_name = "Alex"
+
+# print("Average score for " + student_name + " is: " , average_score)
+
+score = int(input("What is your score?"))
+
+if score >= 75: 
+    print("You got an A!")
+elif score >= 60:
+    print("You got a B!")
+elif score >= 50:
+    print("You got a C!")
+else:
+    print("You FAILED")
