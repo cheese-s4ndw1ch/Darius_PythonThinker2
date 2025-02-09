@@ -10,3 +10,4 @@
 # print("Completed ")
 
 savings = 0
+daily_saving = int(input)
