@@ -12,3 +12,6 @@ for counter in range(len(Planets)):
 
 Planets.insert(3, "Jawline Land")
 Planets.append("Blutoes")
+
+for counter in range(len(Planets)):
+    print(Planets[counter])
