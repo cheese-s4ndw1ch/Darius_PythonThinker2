@@ -33,4 +33,4 @@ else:
     print("BO-UH-O-WO-UH?")
 
 
-countires = [c]
+countires = ["China" , "Japan"]
