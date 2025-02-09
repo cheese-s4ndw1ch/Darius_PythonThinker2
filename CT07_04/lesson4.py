@@ -37,4 +37,5 @@ countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" ,
 i = 0
 
 while True: 
-    country = input("What country would")
+    country = input("What country would you like to go?")
+    
