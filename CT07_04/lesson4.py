@@ -48,3 +48,6 @@ while True:
 
 for country in countries:
     print(f"I would like to visit {country}")
+
+
+    
