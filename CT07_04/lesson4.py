@@ -10,4 +10,4 @@ print(len(Planets))
 for counter in range(len(Planets)):
     print(Planets[counter])
 
-lists.insert()
+Planets.insert()
