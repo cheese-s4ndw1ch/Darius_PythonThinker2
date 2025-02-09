@@ -25,5 +25,6 @@ for i in range(total_Q):
         answer = int(input("What's {num1} x {num2}"))
 
         if answer == correct:
-            print("Nice! Don't mess up the next one!")
+            print("Nice! Don't mess up the next one! Ơ̸̢̢̤̙̠̘̣͓̤̝̻̙̓̐͛̏̀̒͝ͅŘ̸̨̡̥̙̰̯̼̪̰̠͖̬̙͓͍̊̐̑̇̋̔̇̑͘ ̷̡̢̛̲͙̰̣̉̀̒Ẽ̶̡̮̭͈̙̙̻͉̬̗̺̜̤̣͒̾L̸̢̯͙͚̼͇͖̰̹̓̌̈́̀̀̉̅̉̒Ș̶̨̖̗̘̠͕̩̼͕̄̓̇͐͗̅̎̀̈́̕͠͝ͅȨ̵̥̝͐̋́̊̋͝")
+            
    
