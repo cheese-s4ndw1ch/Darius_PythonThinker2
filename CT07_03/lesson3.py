@@ -1,11 +1,12 @@
-print("Hello from lesson 3")
+# print("Hello from lesson 3")
 
-import time
-study = int(input("How minutes you wanna study? "))
+# import time
+# study = int(input("How minutes you wanna study? "))
 
-while (study) != 0 :
-   time.sleep(study*60)
-   study -= 60
+# while (study) != 0 :
+#    time.sleep(study*60)
+#    study -= 60
 
-print("Completed ")
+# print("Completed ")
 
+savings = int(input("How much money do you save everyday"))
