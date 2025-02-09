@@ -16,3 +16,5 @@ num = random.randint(1 , 20)
 
 total_Q = 15
 lives = 3 
+for i in range(total_Q):
+    num = random.randint
