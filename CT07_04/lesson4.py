@@ -26,3 +26,4 @@ print("Hello from lesson 4")
 
 
 Continents = "Asia" , "Europe"
+ask = input("Whi")
