@@ -10,4 +10,6 @@
 # print("Completed ")
 
 savings = 0
-daily_saving = int(input("How much do you save today?"))
+
+while savings < 100:
+   daily_saving = int(input("How much did you save today?"))
