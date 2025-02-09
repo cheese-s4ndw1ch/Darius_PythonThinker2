@@ -22,7 +22,7 @@ for i in range(total_Q):
     correct = num1 * num2
 
     while lives>0:
-        answer = int(input("What's {num1} x {num2}"))
+        answer = int(input(f"What's {num1} x {num2}"))
 
         if answer == correct:
             print("Nice! Don't mess up the next one! Ơ̸̢̢̤̙̠̘̣͓̤̝̻̙̓̐͛̏̀̒͝ͅŘ̸̨̡̥̙̰̯̼̪̰̠͖̬̙͓͍̊̐̑̇̋̔̇̑͘ ̷̡̢̛̲͙̰̣̉̀̒Ẽ̶̡̮̭͈̙̙̻͉̬̗̺̜̤̣͒̾L̸̢̯͙͚̼͇͖̰̹̓̌̈́̀̀̉̅̉̒Ș̶̨̖̗̘̠͕̩̼͕̄̓̇͐͗̅̎̀̈́̕͠͝ͅȨ̵̥̝͐̋́̊̋͝")
