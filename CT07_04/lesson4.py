@@ -27,3 +27,5 @@ print("Hello from lesson 4")
 
 Continents = "Asia" , "Europe"
 ask = input("Which continent would you like to go to?")
+if ask == "Asia":
+    print
