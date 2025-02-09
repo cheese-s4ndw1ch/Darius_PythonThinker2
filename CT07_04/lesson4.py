@@ -47,4 +47,4 @@ while True:
     i += 1
 
 for country in countries:
-    print
+    print(f"I would like to visit {country}")
