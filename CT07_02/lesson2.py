@@ -44,14 +44,15 @@
 
 
 
-q1 = input("Who started WW2")
-while (q1 != "Adolf Hitler"):
-    print("YOU GOT IT WRONG!!!!!!!")
-    q1 = input("Who started WW2")
+# q1 = input("Who started WW2")
+# while (q1 != "Adolf Hitler"):
+#     print("YOU GOT IT WRONG!!!!!!!")
+#     q1 = input("Who started WW2")
 
-print("You got it correct!")
+# print("You got it correct!")
 
-q2 = input("Who failed art school?")
-while (q2 != "Adolf Hitler"):
-    print("YOU GOT IT WRONG!!!!!!")
-    q2 = input("Who fail ")
+# q2 = input("Who failed art school?")
+# while (q2 != "Adolf Hitler"):
+#     print("YOU GOT IT WRONG!!!!!!")
+#     q2 = input("Who fail ")
+
