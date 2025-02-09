@@ -22,3 +22,4 @@ for i in range(total_Q):
 
     while lives>0:
         answer = int(input("What's {num1} x {num2}"))
+    
