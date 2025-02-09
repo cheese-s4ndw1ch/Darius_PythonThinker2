@@ -32,11 +32,26 @@
 #             break
 # else:
 #     print(counter)
-counter = 0
+# counter = 0
 
-while True:
-    if counter == 6:
-            break
-else:
-    print(counter)
-    counter += 1
+# while True:
+#     if counter == 6:
+#             break
+# else:
+#     print(counter)
+#     counter += 1
+
+
+
+
+q1 = input("Who started WW2")
+while (q1 != "Adolf Hitler"):
+    print("YOU GOT IT WRONG!!!!!!!")
+    q1 = input("Who started WW2")
+
+print("You got it correct!")
+
+q2 = input("Who failed art school?")
+while (q2 != "Adolf Hitler"):
+    print("YOU GOT IT WRONG!!!!!!")
+    q2 = input("Who fail ")

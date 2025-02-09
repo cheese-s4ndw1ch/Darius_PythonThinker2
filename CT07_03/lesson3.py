@@ -1,4 +1,11 @@
 print("Hello from lesson 3")
 
-q1 = input("Who started WW2")
-if q1: Hitler
+import time
+study = int(input("How minutes you wanna study? "))
+
+while (study) != 0 :
+   time.sleep(study*60)
+   study -= 60
+
+print("Completed ")
+
