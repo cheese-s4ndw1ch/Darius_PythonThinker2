@@ -25,12 +25,12 @@ print("Hello from lesson 4")
 #         print("Sigma")
 
 
-Continents = "Asia" , "Europe"
-ask = input("Which continent would you like to go to?")
-if ask == "Asia":
-    print("Cool!")
-else:
-    print("BO-UH-O-WO-UH?")
+# Continents = "Asia" , "Europe"
+# ask = input("Which continent would you like to go to?")
+# if ask == "Asia":
+#     print("Cool!")
+# else:
+#     print("BO-UH-O-WO-UH?")
 
 
 countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
