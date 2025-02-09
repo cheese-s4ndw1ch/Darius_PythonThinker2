@@ -6,4 +6,4 @@ Planets = ["Mercury" , "Venus" , "Earth" , "Mars" , "Jupiter" , "Saturn" , "Uran
 prints(Planets[3])
 Planets[3] = "Gyat Prime"
 print(Planets[3])
-print
+print(len(Plants))
