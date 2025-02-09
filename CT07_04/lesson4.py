@@ -30,4 +30,4 @@ ask = input("Which continent would you like to go to?")
 if ask == "Asia":
     print("Cool!")
 else:
-    
+    print("BO-uh-o")
