@@ -17,11 +17,13 @@ num = random.randint(1 , 20)
 total_Q = 15
 lives = 3 
 for i in range(total_Q):
-    num = random.randint(2,20)
+    num1 = random.randint(2,20)
     num2 = random.randint(2,20)
+    correct = num1 * num2
 
     while lives>0:
         answer = int(input("What's {num1} x {num2}"))
 
-        
+        if answer == correct:
+            
    
