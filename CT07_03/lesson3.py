@@ -21,4 +21,4 @@ for i in range(total_Q):
     num2 = random.randint(2,20)
 
     while lives>0:
-        answer = int(input("What's (num1)"))
+        answer = int(input("What's {num1}"))
