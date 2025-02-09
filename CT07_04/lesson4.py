@@ -41,4 +41,6 @@ while True:
 
     if country == "end":
         break
-    
+
+
+    countries.insert
