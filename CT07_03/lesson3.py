@@ -14,4 +14,4 @@ import random
 num = random.randint(1 , 20)
 
 
-tota;
+total_Q = 15
