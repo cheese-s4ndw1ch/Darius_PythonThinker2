@@ -7,3 +7,5 @@ prints(Planets[3])
 Planets[3] = "Gyat Prime"
 print(Planets[3])
 print(len(Plants))
+for counter in range(len(Planets)):
+    print(Planets[counter])
