@@ -11,4 +11,4 @@
 
 import random
 
-num = random.randint(1 , 101)
+num = random.randint(1 , 20)
