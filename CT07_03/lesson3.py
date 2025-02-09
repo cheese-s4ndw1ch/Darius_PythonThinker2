@@ -16,4 +16,4 @@ while savings < 100:
    savings += daily_saving
 
    if savings > 100:
-      print("AY LET'S GO BRUH! YOU CA")
+      print("AY LET'S GO BRUH! YOU'VE SAVED $100")
