@@ -33,4 +33,4 @@ else:
     print("BO-UH-O-WO-UH?")
 
 
-countires = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , ]
+countires = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia"]
