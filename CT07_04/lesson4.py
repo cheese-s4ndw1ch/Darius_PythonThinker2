@@ -19,5 +19,6 @@ for counter in range(len(Planets)):
      
     if Planets[counter] == "Earth":
         print("This is home, truly,where I know I must be...")
-    
+    if Planets[counter] == "Gyat Prime":
+        print
 
