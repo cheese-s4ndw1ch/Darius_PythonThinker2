@@ -4,4 +4,4 @@ Planets = ["Mercury" , "Venus" , "Earth" , "Mars" , "Jupiter" , "Saturn" , "Uran
 
 
 prints(Planets[3])
-Planets[3] 
+Planets[3] = ""
