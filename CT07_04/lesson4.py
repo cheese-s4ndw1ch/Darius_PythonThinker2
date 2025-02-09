@@ -12,7 +12,7 @@ for counter in range(len(Planets)):
 
 Planets.insert(3, "Jawline Land")
 Planets.append("Blutoes")
-del[Planets(5)]
+
 
 for counter in range(len(Planets)):
     print(Planets[counter])
