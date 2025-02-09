@@ -34,3 +34,4 @@ else:
 
 
 countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
+i = 0
