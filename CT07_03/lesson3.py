@@ -18,3 +18,4 @@ total_Q = 15
 lives = 3 
 for i in range(total_Q):
     num = random.randint(2,20)
+    num2 = random.randint
