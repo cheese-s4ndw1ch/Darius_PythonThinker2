@@ -16,4 +16,4 @@ while savings < 100:
    savings += daily_saving
 
    if savings > 100:
-      p
+      print("")
