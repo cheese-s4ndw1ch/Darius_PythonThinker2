@@ -10,4 +10,4 @@
 # print("Completed ")
 
 savings = 0
-daily_saving = int(input("How much do you save everyday?"))
+daily_saving = int(input("How much do you save today?"))
