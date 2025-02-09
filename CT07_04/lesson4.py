@@ -50,4 +50,18 @@ for country in countries:
     print(f"I would like to visit {country}")
 
 
-    
+    countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
+i = 0
+
+while True: 
+    country = input("What country would you like to go?")
+
+    if country == "end":
+        break
+
+
+    countries.insert(i,country)
+    i += 1
+
+for country in countries:
+    print(f"I would like to visit {country}")
