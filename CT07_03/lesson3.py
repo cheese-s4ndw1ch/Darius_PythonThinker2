@@ -10,3 +10,5 @@
 # print("Completed ")
 
 import random
+
+num
