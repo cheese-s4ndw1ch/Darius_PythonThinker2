@@ -56,3 +56,4 @@
 #     print("YOU GOT IT WRONG!!!!!!")
 #     q2 = input("Who fail ")
 
+savings = int(i)
