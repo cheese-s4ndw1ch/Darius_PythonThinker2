@@ -37,4 +37,4 @@ countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" ,
 i = 0
 
 while True: 
-    country = input("")
+    country = input("What country would")
