@@ -25,4 +25,4 @@ print("Hello from lesson 4")
 #         print("Sigma")
 
 
-Countries = ""
+Countries = "Asia" , "Europe"
