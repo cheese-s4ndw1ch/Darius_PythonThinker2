@@ -15,3 +15,4 @@ num = random.randint(1 , 20)
 
 
 total_Q = 15
+lives = 3 
