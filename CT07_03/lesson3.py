@@ -12,4 +12,4 @@
 savings = 0
 
 while savings < 100:
-   daily_saving = int(input("How much did you save today?"))
+   daily_saving = float(input("How much did you save today?"))
