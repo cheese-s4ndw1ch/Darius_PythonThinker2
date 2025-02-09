@@ -20,4 +20,5 @@ for i in range(total_Q):
     num = random.randint(2,20)
     num2 = random.randint(2,20)
 
-    
+    while lives>0:
+        answer
