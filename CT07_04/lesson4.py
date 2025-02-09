@@ -1,3 +1,3 @@
 print("Hello from lesson 4")
 
-Planet = 
+Planet = ["Mercury"]
