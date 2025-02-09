@@ -43,7 +43,7 @@ while True:
         break
 
 
-    countries.insert(i.country)
+    countries.insert(i,country)
     i += 1
 
 for country in countries:
