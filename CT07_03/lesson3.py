@@ -17,3 +17,4 @@ while savings < 100:
 
    if savings > 100:
       print("AY LET'S GO BRUH! YOU'VE SAVED $100 AND CAN AFFORD CHILD SUPPORT!")
+      break
