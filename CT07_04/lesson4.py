@@ -38,4 +38,6 @@ i = 0
 
 while True: 
     country = input("What country would you like to go?")
-    
+
+    if country == "end":
+        
