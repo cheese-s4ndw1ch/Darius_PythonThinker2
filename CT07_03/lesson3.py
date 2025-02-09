@@ -11,4 +11,4 @@
 
 import random
 
-num
+num = random.randint(5 , 23-)
