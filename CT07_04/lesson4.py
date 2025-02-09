@@ -16,4 +16,7 @@ del[Planets(5)]
 
 for counter in range(len(Planets)):
     print(Planets[counter])
-    
+     
+    if Planets[counter] == "Earth":
+        print
+
