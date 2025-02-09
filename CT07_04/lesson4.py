@@ -43,4 +43,5 @@ while True:
         break
 
 
-    countries.insert
+    countries.insert(i.country)
+    
