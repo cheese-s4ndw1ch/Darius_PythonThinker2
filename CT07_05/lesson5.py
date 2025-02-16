@@ -4,7 +4,7 @@ import random
 
 counter = 0 
 
-lucky_winn
+lucky_winners = []
 
 while True:
 
