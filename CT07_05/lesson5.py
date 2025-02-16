@@ -12,4 +12,4 @@ while True:
 
     total = 100
 
-    
+    print (num)
