@@ -10,9 +10,11 @@ while True:
 
     num = random.randint(1,1000)
 
-    total = 100
+    lucky_winners.append(num)
 
-    print (num)
+    for num in range(100):
+
+        print(num)
 
     counter += 1
 
