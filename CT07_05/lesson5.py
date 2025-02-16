@@ -6,4 +6,4 @@ counter = 0
 
 while True:
 
-    randint()
+    randint(1,1000)
