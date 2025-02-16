@@ -33,35 +33,34 @@ print("Hello from lesson 4")
 #     print("BO-UH-O-WO-UH?")
 
 
-countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
-i = 0
+# countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
+# i = 0
+
+# while True: 
+#     country = input("What country would you like to go?")
+
+#     if country == "end":
+#         break
+
+
+#     countries.insert(i,country)
+#     i += 1
+
+# for country in countries:
+#     print(f"I would like to visit {country}")
+
+
+    foods: ["Cheese Burger" , "Beef Burger" , "Fish Burger" , "Supreme Burger" , "Fish Fillet" , "Fish Sticks"
 
 while True: 
-    country = input("What country would you like to go?")
+   food = input("What would you like to eat?")
 
-    if country == "end":
+    if food == "end":
         break
 
 
-    countries.insert(i,country)
+    food.insert(i,foods)
     i += 1
 
-for country in countries:
-    print(f"I would like to visit {country}")
-
-
-    countries = ["China" , "Japan" "Thailand" , "Laos" , "Phllipines" , "Cambodia" , "Saudi Arabia" , "Malaysia" , "Sri Lanka" , "Vietnam" , "Bangladesh" , "Indonesia" , "India"]
-i = 0
-
-while True: 
-    country = input("What country would you like to go?")
-
-    if country == "end":
-        break
-
-
-    countries.insert(i,country)
-    i += 1
-
-for country in countries:
-    print(f"I would like to visit {country}")
+for food in foods:
+    print(f"I would like to eat {food}
