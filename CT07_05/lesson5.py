@@ -6,4 +6,4 @@ counter = 0
 
 while True:
 
-    randint(1,1000)
+    num = randint(1,1000)
