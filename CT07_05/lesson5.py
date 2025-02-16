@@ -29,7 +29,7 @@ namelist = ["Olivia", "Liam", "Emma", "Noah", "Ava", "Ethan",
 heightlist = [160, 165, 158, 170, 162, 168, 159, 172, 164, 166]
 
 tallest = max(heightlist)
-shortest = min
+shortest = min(heiglist)
 
 print (tallest)
 print(namelist[heightlist.index](tallest))
