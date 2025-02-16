@@ -13,3 +13,9 @@ while True:
     total = 100
 
     print (num)
+
+    counter += 1
+
+    if counter >100:
+
+        break
