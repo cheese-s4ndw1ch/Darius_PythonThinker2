@@ -11,3 +11,5 @@ while True:
     num = random.randint(1,1000)
 
     total = 100
+
+    
