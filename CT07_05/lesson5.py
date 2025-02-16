@@ -6,4 +6,4 @@ counter = 0
 
 while True:
 
-    num = randint(1,1000)
+    num = random.randint(1,1000)
