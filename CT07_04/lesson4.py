@@ -50,17 +50,7 @@ print("Hello from lesson 4")
 #     print(f"I would like to visit {country}")
 
 
-    foods: ["Cheese Burger" , "Beef Burger" , "Fish Burger" , "Supreme Burger" , "Fish Fillet" , "Fish Sticks"
-
-while True: 
-   food = input("What would you like to eat?")
-
-    if food == "end":
-        break
+foods = ["Cheese Burger" , "Beef Burger" , "Fish Burger" , "Supreme Burger" , "Fish Fillet",]
 
 
-    food.insert(i,foods)
-    i += 1
-
-for food in foods:
-    print(f"I would like to eat {food}
+       
