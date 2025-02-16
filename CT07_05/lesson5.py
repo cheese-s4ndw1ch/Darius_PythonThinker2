@@ -34,5 +34,5 @@ shortest = min(heightlist)
 print (tallest)
 print(namelist[heightlist.index](tallest))
 
-
+print(shortest)
 print(namelist[heightlist.index](tallest))
