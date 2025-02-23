@@ -43,4 +43,6 @@ num_girls = len(girls)
 print(num_boys)
 print(num_girls)
 
+print(boys, girls)
+
 
