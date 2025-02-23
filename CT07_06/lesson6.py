@@ -31,4 +31,6 @@ boys = []
 girls = []
 
 for student in students:
+    name, gender = student
+    
 
