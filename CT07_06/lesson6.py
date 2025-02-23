@@ -26,3 +26,5 @@ students = [
 for student in students:
     name, gender = student
     print("Gender of " + name + " is: " + gender)
+
+boys
