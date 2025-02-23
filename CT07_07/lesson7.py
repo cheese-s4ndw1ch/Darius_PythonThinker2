@@ -15,4 +15,4 @@ for student in students:
     name, number, cca = student
     print("Name: " + name)
     print("Phone number: " + number)
-    print
+    print("cca: " + cca)
