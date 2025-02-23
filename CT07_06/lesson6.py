@@ -28,4 +28,4 @@ for student in students:
     print("Gender of " + name + " is: " + gender)
 
 boys = [["Noah"], ["Liam"], ["Ethan"], ["Lucas"], ["Aiden"], ["Jackson"], ["Logan"]]
-girls = [[""]]
+girls = [["Olivia"], ["Emma"], ["Ava"], ["Sophia"], ["Mia"], ["Isabella"], ["Amelia"], ["Lily"]
