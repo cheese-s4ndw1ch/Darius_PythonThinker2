@@ -9,6 +9,6 @@ contacts.append(contact1)
 contacts.append(contact2)
 contacts.append(contact3)
  
-for contact1 in contacts:
-    for contact2 in contact1:
-        print(contact2)
+for contact in contacts:
+    for details in contacts:
+        print(details)
