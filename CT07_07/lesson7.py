@@ -19,4 +19,4 @@ print("Hello from lesson 7")
 
 
 list1 = [["Apple"], ["Banana"], ["Cherry"] , ["Durian"]]
-list2 = [[]]
+list2 = [["Elderberry"], ["Figs"], ["Grapes"], ["Honeydew"
