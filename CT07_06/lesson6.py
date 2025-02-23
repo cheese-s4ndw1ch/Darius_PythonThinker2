@@ -25,3 +25,4 @@ students = [
 
 for student in students:
     name, age, *others = student
+    print(name + "is" + age + "years old")
