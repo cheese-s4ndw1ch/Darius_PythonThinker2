@@ -1,3 +1,3 @@
 print("Hello from lesson 7")
 
-s
+student1 = [""]
