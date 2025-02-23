@@ -23,3 +23,5 @@ students = [
 ]
 
 
+for student in students:
+    name
