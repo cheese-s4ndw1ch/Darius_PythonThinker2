@@ -13,3 +13,4 @@ students.append(student3)
 
 for student in students:
     name, number, cca = student
+    print()
