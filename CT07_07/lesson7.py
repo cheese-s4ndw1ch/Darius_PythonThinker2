@@ -10,3 +10,6 @@ student3 = ["Ray", "89075687", "Chess"]
 students.append(student1)
 students.append(student2)
 students.append(student3)
+
+for student in students:
+    name, number
