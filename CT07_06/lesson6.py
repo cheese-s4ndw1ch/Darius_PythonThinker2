@@ -30,3 +30,5 @@ for student in students:
 boys = []
 girls = []
 
+for student in students:
+
