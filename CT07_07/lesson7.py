@@ -8,3 +8,5 @@ student2 = ["Ted", "84627472", "Badminton"]
 student3 = ["Ray", "89075687", "Chess"]
 
 students.append(student1)
+students.append(student1)
+students.append(student1)
