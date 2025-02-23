@@ -18,3 +18,4 @@ print("Hello from lesson 7")
 #     print("cca: " + cca)
 
 
+list1 = [["Apple"], ["Banana"], ["Cherry"] , ["Durian"]]
