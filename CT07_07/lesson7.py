@@ -18,8 +18,10 @@ print("Hello from lesson 7")
 #     print("cca: " + cca)
 
 
-list1 = [["Apple"], ["Banana"], ["Cherry"] , ["Durian"]]
-list2 = [["Elderberry"], ["Figs"], ["Grapes"], ["Honeydew"]]
+# list1 = [["Apple"], ["Banana"], ["Cherry"] , ["Durian"]]
+# list2 = [["Elderberry"], ["Figs"], ["Grapes"], ["Honeydew"]]
 
-fruits = list1 + list2 
-print(fruits)
+# fruits = list1 + list2 
+# print(fruits)
+
+
