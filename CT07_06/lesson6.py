@@ -38,5 +38,6 @@ for student in students:
         boys.append(student)
 
 num_boys = len(boys)
+num_girls = 
 
 
