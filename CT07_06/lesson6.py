@@ -37,5 +37,6 @@ for student in students:
     if gender == "M":
         boys.append(student)
 
-num_boys
+num_boys = len(boys)
+
 
