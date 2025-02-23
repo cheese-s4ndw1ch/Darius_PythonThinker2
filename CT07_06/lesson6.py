@@ -24,5 +24,5 @@ students = [
 
 
 for student in students:
-    name, gender 
-    print(name + "is" + age + "years old")
+    name, gender = student
+    print(name + "is" + gender)
