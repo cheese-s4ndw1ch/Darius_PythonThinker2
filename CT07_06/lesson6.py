@@ -7,4 +7,4 @@ contact3 = ["Sylvia", 87894032, "sylvia@gmail.com"]
  
 contacts.append(contact1)(contact2)(contact3)
 
-print()
+print(contacts)
