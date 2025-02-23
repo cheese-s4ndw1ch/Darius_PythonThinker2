@@ -35,5 +35,7 @@ for student in students:
     if gender == "F":
        girls.append(student)
     if gender == "M":
-        boys.append
+        boys.append(student)
+
+        
 
