@@ -7,7 +7,7 @@ contact3 = ["Sylvia", 87894032, "sylvia@gmail.com"]
 
 contacts.append(contact1)
 contacts.append(contact2)
-
+contacts.append(contact3)
  
 for contact1 in contacts:
     for contact2 in contact1:
