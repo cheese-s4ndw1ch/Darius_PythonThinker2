@@ -27,4 +27,4 @@ for student in students:
     name, gender = student
     print("Gender of " + name + " is: " + gender)
 
-boys = [["Noah"], ["Liam"]]
+boys = [["Noah"], ["Liam"], ["Ethan"], ["Lucas"], ["Aiden"], ["Jackson"], ["Logan"]]
