@@ -46,3 +46,7 @@ print(num_girls)
 print(boys, girls)
 
 
+for boy in boys:
+    print(boy[0])
+
+
