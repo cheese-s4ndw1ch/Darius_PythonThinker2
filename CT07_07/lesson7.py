@@ -12,4 +12,4 @@ students.append(student2)
 students.append(student3)
 
 for student in students:
-    name, number
+    name, number, cca = student
