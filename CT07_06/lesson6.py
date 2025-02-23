@@ -24,4 +24,4 @@ students = [
 
 
 for student in students:
-    name, age, *other
+    name, age, *others = student
