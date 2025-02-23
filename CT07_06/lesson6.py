@@ -7,4 +7,4 @@ contact3 = ["Sylvia", 87894032, "sylvia@gmail.com"]
  
 for contact1 in contacts:
     for contact2 in contact1:
-        print(contact2
+        print(contact2)
