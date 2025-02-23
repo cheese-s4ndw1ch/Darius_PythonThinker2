@@ -40,6 +40,7 @@ for student in students:
 num_boys = len(boys)
 num_girls = len(girls)
 
-print(num_boys
+print(num_boys)
+print(num_girls)
 
 
