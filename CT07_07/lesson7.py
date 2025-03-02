@@ -54,4 +54,7 @@ element = 3
 list3 = list1 + list2
 
 print(list3)
-        
+
+for item in list3:
+    if item not in unique:
+        unique.append
