@@ -35,4 +35,4 @@ right = fruits[index:]
 
 print(left)
 print(right)
-print()
+print(fruits)
