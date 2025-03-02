@@ -44,6 +44,7 @@ print("Hello from lesson 7")
 #right = fruits[mid:]
 
 list1 = ['Apple', 'Banana', 'Cherry', 'Durian']
-['Cherry' , 'Durian', 'Elderberry', 'Figs']
+list2 = ['Cherry' , 'Durian', 'Elderberry', 'Figs']
 
-common
+common = []
+
