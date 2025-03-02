@@ -51,4 +51,4 @@ unique = []
 element = 3
 
 if element not in (unique):
-    append.element()
+    append.element(unique)
