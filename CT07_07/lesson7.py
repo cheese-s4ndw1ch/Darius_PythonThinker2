@@ -38,7 +38,7 @@ print("Hello from lesson 7")
 #print(fruits)
 
 
-fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
-mid = len(fruits)//2
+#fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
+#mid = len(fruits)//2
 left = fruits[:mid]
 right = fruits[mid:]
