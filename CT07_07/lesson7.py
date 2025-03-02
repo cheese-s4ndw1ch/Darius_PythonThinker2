@@ -53,4 +53,4 @@ element = 3
 
 for element in list1:
     if element not in unique:
-        
+        w
