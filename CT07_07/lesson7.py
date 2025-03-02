@@ -51,13 +51,13 @@ print("Hello from lesson 7")
 #element = 3
 
 
-list3 = list1 + list2
+#list3 = list1 + list2
 
-print(list3)
+#print(list3)
 
-for item in list3:
-    if item not in unique:
-        unique.append(item)
+#for item in list3:
+    #if item not in unique:
+       # unique.append(item)
 
 print(unique)
 
