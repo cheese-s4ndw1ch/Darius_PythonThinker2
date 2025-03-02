@@ -82,5 +82,5 @@ flat_list = []
 
 
 for item in nested:
-    nested.append(nested)
+    nested.append(flat_list)
 print(flat_list)
