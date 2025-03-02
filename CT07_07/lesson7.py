@@ -38,3 +38,5 @@ print("Hello from lesson 7")
 #print(fruits)
 
 
+fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
+
