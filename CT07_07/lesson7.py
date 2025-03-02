@@ -43,5 +43,5 @@ print("Hello from lesson 7")
 #left = fruits[:mid]
 #right = fruits[mid:]
 
-['Apple', 'Banana', 'Cherry', ]
+['Apple', 'Banana', 'Cherry', 'Durian']
 ['Durian', 'Elderberry', 'Figs']
