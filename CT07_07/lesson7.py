@@ -43,8 +43,8 @@ print("Hello from lesson 7")
 #left = fruits[:mid]
 #right = fruits[mid:]
 
-list1 = ['Apple', 'Banana', 'Cherry', 'Durian']
-list2 = ['Cherry' , 'Durian', 'Elderberry', 'Figs']
+#list1 = ['Apple', 'Banana', 'Cherry', 'Durian']
+#list2 = ['Cherry' , 'Durian', 'Elderberry', 'Figs']
 
 unique = []
 
