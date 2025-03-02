@@ -28,8 +28,8 @@ print("Hello from lesson 7")
 #list1 = [3.20, 2.65, 1.75]
 #list2 = [6.15, 5.45, 4.20]
 
-fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
-index = 3
+#fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
+#index = 3
 left = fruits[:index]
 right = fruits[index:]
 
