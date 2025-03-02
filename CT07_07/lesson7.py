@@ -43,20 +43,3 @@ print("Hello from lesson 7")
 #left = fruits[:mid]
 #right = fruits[mid:]
 
-list1 = ['Apple', 'Banana', 'Cherry', 'Durian']
-list2 = ['Cherry' , 'Durian', 'Elderberry', 'Figs']
-
-unique = []
-
-element = 3
-
-
-list3 = list1 + list2
-
-print(list3)
-
-for item in list3:
-    if item not in unique:
-        unique.append(item)
-
-print(unique)
