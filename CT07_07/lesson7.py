@@ -30,3 +30,4 @@ list2 = [6.15, 5.45, 4.20]
 
 prices = list1 + list2 
 sorted_price = sorted(prices)
+
