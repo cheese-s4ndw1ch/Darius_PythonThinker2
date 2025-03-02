@@ -73,3 +73,4 @@ merged = list1 = list2
 
 for items in merged:
     i = item % 2
+    print()
