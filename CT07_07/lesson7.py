@@ -42,3 +42,5 @@ print("Hello from lesson 7")
 #mid = len(fruits)//2
 #left = fruits[:mid]
 #right = fruits[mid:]
+
+
