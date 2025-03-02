@@ -76,4 +76,4 @@ for items in merged:
     print(i)
 
     if i == 0:
-        even.append
+        even.append(item)
