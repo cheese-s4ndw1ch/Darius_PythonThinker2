@@ -57,4 +57,6 @@ print(list3)
 
 for item in list3:
     if item not in unique:
-        unique.append
+        unique.append(item)
+
+p
