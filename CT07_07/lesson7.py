@@ -51,6 +51,5 @@ unique = []
 element = 3
 
 
-for element in list1:
-    if element not in unique:
-        wjudwoj
+list3 = list1 + list2
+        
