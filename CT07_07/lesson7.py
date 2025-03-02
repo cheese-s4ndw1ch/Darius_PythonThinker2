@@ -59,4 +59,4 @@ for item in list3:
     if item not in unique:
         unique.append(item)
 
-p
+print(unique)
