@@ -79,3 +79,7 @@ print("Hello from lesson 7")
 
 nested =  [[1, 2], [3, 4], [5, 6]]
 flat_list = []
+
+
+for item in nested:
+    flatl
