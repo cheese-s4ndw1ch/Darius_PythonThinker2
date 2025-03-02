@@ -47,3 +47,8 @@ list1 = ['Apple', 'Banana', 'Cherry', 'Durian']
 list2 = ['Cherry' , 'Durian', 'Elderberry', 'Figs']
 
 unique = []
+
+element = 3
+
+if element not in (unique):
+    append.element()
