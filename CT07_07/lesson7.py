@@ -75,4 +75,7 @@ print("Hello from lesson 7")
  ##  print(i)
 
    # if i == 0:
-        even.append(item)
+    #    even.append(item)
+
+nested =  [[1, 2], [3, 4], [5, 6]]
+flat_list = []
