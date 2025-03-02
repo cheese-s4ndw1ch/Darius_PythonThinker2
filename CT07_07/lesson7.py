@@ -50,5 +50,7 @@ unique = []
 
 element = 3
 
-if element not in (unique):
-    append.element(unique)
+
+for element in list1:
+    if element not in unique:
+        
