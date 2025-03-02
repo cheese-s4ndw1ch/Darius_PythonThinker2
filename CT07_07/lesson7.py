@@ -30,3 +30,4 @@ print("Hello from lesson 7")
 
 fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
 index = 3
+slice
