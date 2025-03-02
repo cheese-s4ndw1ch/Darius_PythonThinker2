@@ -39,6 +39,6 @@ print("Hello from lesson 7")
 
 
 fruits = ["Apple", "Banana", "Cherry", "Durian", "Elderberry", "Figs"]
-mid = len
+mid = len(fruits)
 left = fruits[:index]
 right = fruits[index:]
