@@ -82,4 +82,4 @@ flat_list = []
 
 
 for item in nested:
-    flatl
+    flat_list.append
