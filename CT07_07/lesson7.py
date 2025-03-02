@@ -33,6 +33,6 @@ print("Hello from lesson 7")
 #left = fruits[:index]
 #right = fruits[index:]
 
-print(left)
-print(right)
-print(fruits)
+#print(left)
+#print(right)
+#print(fruits)
