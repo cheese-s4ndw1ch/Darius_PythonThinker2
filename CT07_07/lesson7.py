@@ -59,15 +59,15 @@ print("Hello from lesson 7")
     #if item not in unique:
        # unique.append(item)
 
-print(unique)
+#print(unique)
 
 
 
 
 
 
-even = []
-list1 = [1 , 2, 3 , 4]
+#even = []
+#list1 = [1 , 2, 3 , 4]
 list2 = [5, 6, 7, 8 ]
 merged = list1 = list2
 
