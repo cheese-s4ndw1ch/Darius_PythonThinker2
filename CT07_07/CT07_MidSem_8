@@ -30,5 +30,6 @@ while order != "end":
     
     if order == "end":
         break
+    print("")
 
     
