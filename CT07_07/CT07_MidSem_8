@@ -4,15 +4,15 @@ health = 100
 fights = 0
 print("There is a Hero named Bob. He is an average guy with average gear. He goes on an adventure to find a dragon egg. He starts with 100 Health")
 while health != 0: 
-    if health != 0:
-        for i in range(0,16):
+    
+    for i in range(0,16):
 
          health -= (i)
          fights += 1
 
         
-        print("On the way, Bob fought monsters and now has " + str(health)  + "Health")
-    else:
+    print("On the way, Bob fought monsters and now has " + str(health)  + "Health")
+    if health == 0:
         break
     print("Bob has fought " + str(fights) + "and has died an honourable death.")
 
