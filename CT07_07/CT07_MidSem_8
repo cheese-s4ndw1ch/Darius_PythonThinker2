@@ -43,10 +43,19 @@ schedule = [
 	["11.45am", "Science", "2nd Lang.", "2nd Lang."]
 ]
     
-print(schedule)
 
-word = "peanut"
-i = 0
-while i < 10:
-	print(word[i])
+
+max = 0
+min = 999
+scores = [94, 89, 74, 61, 59, 79, 83, 91, 64]
+
+for i in scores:
+    if i > max:
+        max = i
+    if i < min:
+        min = i
+
+print("Max score is: " + str(max))
+print("Min score is: " + str(min))
+
 	
