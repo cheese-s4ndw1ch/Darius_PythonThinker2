@@ -31,7 +31,8 @@ while order != "end":
 
     foods.append(order)
    
-
+for item in (foods):
+    print(1)
 print("You've ordered the following " + str(foods))
 
 
