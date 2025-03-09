@@ -20,4 +20,4 @@
      
 
 
-order = input("W")
+order = input("What would ya like to eat?")
