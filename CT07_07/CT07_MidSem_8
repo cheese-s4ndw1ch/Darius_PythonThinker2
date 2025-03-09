@@ -14,7 +14,7 @@ while health != 0:
         print("On the way, Bob fought monsters and now has " + str(health)  + "Health")
     else:
         break
-    print("Bob has fought " (fights) + "and has died an honourable death.")
+    print("Bob has fought " + str(fights) + "and has died an honourable death.")
 
 
      
