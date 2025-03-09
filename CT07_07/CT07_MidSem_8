@@ -7,7 +7,7 @@ while health != 0:
     if health != 0:
         for i in range(0,16):
 
-         health - (i)
+         health -= (i)
          fights += 1
 
     
