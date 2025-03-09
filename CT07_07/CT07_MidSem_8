@@ -2,3 +2,4 @@ import random
 
 health = 100
 
+print("")
