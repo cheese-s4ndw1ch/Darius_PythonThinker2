@@ -7,4 +7,5 @@ print("There is a Hero named Bob. He is an average guy with average gear. He goe
 
 for i in range(health):
     
+    
     print("On the way, Bob fought monsters and now has")
