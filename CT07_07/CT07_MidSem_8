@@ -9,3 +9,5 @@ for i in range(1,16):
 
     
     print("On the way, Bob fought monsters and now has " + (i)  + "Health")
+
+    
