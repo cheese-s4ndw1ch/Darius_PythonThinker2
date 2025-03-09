@@ -12,7 +12,7 @@ while health != 0:
 
         
     print("On the way, Bob fought monsters and now has " + str(health)  + "Health")
-    if health  >0:
+    if health  <0:
         break
     print("Bob has fought " + str(fights) + "and has died an honourable death.")
 
