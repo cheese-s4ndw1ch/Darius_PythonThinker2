@@ -2,4 +2,4 @@ import random
 
 health = 100
 
-print("There is a Hero named Bob")
+print("There is a Hero named Bob. He is ")
