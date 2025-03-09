@@ -30,8 +30,7 @@ while order != "end":
    
     if order == "end":
         break
-
-
+print("You've ordered " + str(foods))
 
 
     
