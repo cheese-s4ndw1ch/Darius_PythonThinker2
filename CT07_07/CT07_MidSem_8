@@ -30,6 +30,6 @@ while order != "end":
     print("You've ordered " + str(foods))
     if order == "end":
         break
-    print("Sure we'll get these dishes for you")
+   
 
     
