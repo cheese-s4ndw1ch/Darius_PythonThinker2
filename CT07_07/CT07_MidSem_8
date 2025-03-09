@@ -6,6 +6,5 @@ print("There is a Hero named Bob. He is an average guy with average gear. He goe
 
 
 for i in range(health):
-    num1 = random.randint(2,20)
-    num2 = random.randint(2,20)
+    
     print("On the way, Bob fought monsters and now has")
