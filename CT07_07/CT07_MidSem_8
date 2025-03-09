@@ -27,9 +27,11 @@ while order != "end":
     order = input("What would ya like to eat?")
 
     foods.append(order)
-    print("You've ordered " + str(foods))
+   
     if order == "end":
         break
-   
+
+
+
 
     
