@@ -26,10 +26,12 @@ while order != "end":
 
     order = input("What would ya like to eat?")
 
-    foods.append(order)
-   
     if order == "end":
         break
+
+    foods.append(order)
+   
+
 print("You've ordered " + str(foods))
 
 
