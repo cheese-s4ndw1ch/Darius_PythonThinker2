@@ -10,7 +10,7 @@ while health != 0:
          health -= (i)
          fights += 1
 
-    
+        
         print("On the way, Bob fought monsters and now has " + str(health)  + "Health")
     else:
         break
