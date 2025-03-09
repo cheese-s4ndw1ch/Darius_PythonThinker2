@@ -20,7 +20,7 @@
      
 
 
-order = input("")
+order = input("What would you wanna eat?")
 
 while order != "end":
 
