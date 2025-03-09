@@ -5,3 +5,5 @@ health = 100
 print("There is a Hero named Bob. He is an average guy with average gear. He goes on an adventure to find a dragon egg. He starts with 100 Health")
 
 
+for i in range (1,16):
+    
