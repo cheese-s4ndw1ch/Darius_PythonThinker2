@@ -20,20 +20,21 @@
      
 
 
-order = input("What would you wanna eat?")
-foods = []
-while order != "end":
+# order = input("What would you wanna eat?")
+# foods = []
+# while order != "end":
 
-    order = input("What would ya like to eat?")
+#     order = input("What would ya like to eat?")
 
-    if order == "end":
-        break
+#     if order == "end":
+#         break
 
-    foods.append(order)
+#     foods.append(order)
    
-for item in (foods):
-    print(foods.index(item))
-print("You've ordered the following " + str(foods))
+# for item in (foods):
+#     print(foods.index(item))
+# print("You've ordered the following " + str(foods))
 
 
     
+print()
