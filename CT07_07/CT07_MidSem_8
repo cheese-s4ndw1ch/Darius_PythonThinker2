@@ -24,6 +24,8 @@ order = input("What would ya like to eat?")
 
 while order != "end":
 
+    order = input("What would ya like to eat?")
+
     print("You have order a: " + (order))
 
     
