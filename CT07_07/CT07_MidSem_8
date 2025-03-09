@@ -12,3 +12,5 @@ if health != 0:
     
         print("On the way, Bob fought monsters and now has " + (health)  + "Health")
 
+        if 
+
