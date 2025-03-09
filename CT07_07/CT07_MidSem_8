@@ -6,4 +6,4 @@ print("There is a Hero named Bob. He is an average guy with average gear. He goe
 
 
 for i in range (1,16):
-    
+    print("")
