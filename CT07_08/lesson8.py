@@ -68,5 +68,5 @@
 
 list = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
 
-string = " ".join(list)
+string = ", ".join(list)
 print(string)
