@@ -72,6 +72,8 @@
 # print(string)
 
 
-sentence = "Adolf"
+sentence = "Adolf Hitler"
+
+
 rev_word = word[::-1]
 print(rev_word)
