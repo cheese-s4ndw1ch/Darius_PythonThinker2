@@ -8,4 +8,5 @@ print(lists)
 
 mid = len(lists)//2
 right = list[mid:]
-left = list[]
+left = list[:mid]
+print(right)
