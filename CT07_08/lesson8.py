@@ -11,3 +11,5 @@ right = list[mid:]
 left = list[:mid]
 print(right)
 print(left)
+
+
