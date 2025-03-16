@@ -23,4 +23,6 @@ only_alnum = False
 
 if len(pw)>=8:
     is_8char_long = True
-    
+for i in pw:
+    if i.isupper()==True:
+        has
