@@ -16,3 +16,4 @@
 pw = input("Please enter password: ")
 
 is_8char_long = True
+has_upper = True
