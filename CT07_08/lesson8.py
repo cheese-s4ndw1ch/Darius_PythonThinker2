@@ -42,3 +42,5 @@
 
 
 text = input("Type out a random sentence. ")
+alt = True
+
