@@ -44,3 +44,8 @@
 text = input("Type out a random sentence. ")
 alt = True
 output = ""
+
+
+for i in text: 
+    if alt == True:
+        
