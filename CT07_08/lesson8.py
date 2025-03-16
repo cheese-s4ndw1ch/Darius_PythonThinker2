@@ -57,4 +57,4 @@
 # print(output)
 
 
-str = ""
+str = "Computers are illeg"
