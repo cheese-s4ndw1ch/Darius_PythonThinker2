@@ -5,3 +5,5 @@ list3 = [9, 8, 7]
 lists = sorted(set(list1 + list2 + list3))
 
 print(lists)
+
+mid = len()
