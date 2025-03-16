@@ -41,17 +41,5 @@
 
 
 
-text = input("Type out a random sentence. ")
-alt = True
-output = ""
+# t
 
-
-for i in text: 
-    if alt == True:
-        output += i.lower()
-        alt = False
-    else:
-        output += i.upper()
-        alt = True
-
-print(output)
