@@ -10,4 +10,4 @@ mid = len(lists)//2
 right = list[mid:]
 left = list[:mid]
 print(right)
-print(rigl)
+print(left)
