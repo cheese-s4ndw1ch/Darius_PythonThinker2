@@ -57,6 +57,9 @@
 # print(output)
 
 
-str = "Computers are illegal cuz why not hAHAHAHAAHAHAHHAHA"
-i = str.split()
-print(i)
+# str = "Computers are illegal cuz why not hAHAHAHAAHAHAHHAHA"
+# i = str.split()
+# print(i)
+
+
+Input = "Computers,empower,our,modern,world,with,their,digital,brains"
