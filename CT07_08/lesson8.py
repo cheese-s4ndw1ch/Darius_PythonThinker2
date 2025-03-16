@@ -72,3 +72,4 @@ string = ", ".join(list)
 print(string)
 
 
+word = "Adolf Hitler"
