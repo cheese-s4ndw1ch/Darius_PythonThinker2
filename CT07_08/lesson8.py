@@ -41,4 +41,4 @@
 
 
 
-text = input
+text = input("Type out a random sentence. ")
