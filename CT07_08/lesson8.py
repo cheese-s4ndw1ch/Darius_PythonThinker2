@@ -13,7 +13,7 @@
 # print(left)
 
 
-pw = input("Please create password (Must be more than 8 letters, 1 uppercase): ")
+pw = input("Please create password (Must be more than 8 letters, 1 uppercase + 1 lower case, must have a number): ")
 
 is_8char_long = True
 has_upper = True
