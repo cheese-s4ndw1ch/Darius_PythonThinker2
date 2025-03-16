@@ -73,3 +73,4 @@ print(string)
 
 
 word = "Adolf Hitler"
+rev_word = word[::-1]
