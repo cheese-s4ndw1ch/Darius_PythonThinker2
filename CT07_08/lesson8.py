@@ -32,3 +32,4 @@ for i in pw:
 for i in pw:
     if i.isdigit()== True:
         has_num = True
+    print
