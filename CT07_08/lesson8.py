@@ -74,6 +74,6 @@
 
 sentence = "Adolf Hitler"
 
-split.sentence = Sentence
+split_sentence = Sentence.split
 rev_word = word[::-1]
 print(rev_word)
