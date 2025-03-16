@@ -57,4 +57,4 @@
 # print(output)
 
 
-str = "Computers are illeg"
+str = "Computers are illegal cuz why not hAHAHAHAAHAHAHHAHA"
