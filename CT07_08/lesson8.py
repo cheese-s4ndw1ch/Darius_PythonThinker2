@@ -53,4 +53,5 @@ for i in text:
     else:
         output += i.upper()
         alt == True
-        
+
+print(output)
