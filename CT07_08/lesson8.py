@@ -49,9 +49,9 @@ output = ""
 for i in text: 
     if alt == True:
         output += i.lower()
-        alt == False
+        alt = False
     else:
         output += i.upper()
-        alt == True
+        alt = True
 
 print(output)
