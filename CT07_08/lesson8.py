@@ -57,12 +57,4 @@
 # print(output)
 
 
-output: ['Computers',
- 'empower',
- 'our',
- 'modern',
- 'world',
- 'with',
- 'their',
- 'digital',
- 'brains.']
+str = ""
