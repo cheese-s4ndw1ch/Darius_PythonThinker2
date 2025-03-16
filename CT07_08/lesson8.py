@@ -13,4 +13,4 @@
 # print(left)
 
 
-pw = input("")
+pw = input("Please enter password: ")
