@@ -74,9 +74,4 @@
 
 sentence = "Adolf Hitler"
 
-split_sentence = sentence.split()
-
-for i in split_sentence:
-    crypted = i[::-1]
-    
-print(crypted)
+reversed_wordss = [word[]]
