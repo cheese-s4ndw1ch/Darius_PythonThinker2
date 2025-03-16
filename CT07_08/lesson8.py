@@ -75,5 +75,7 @@
 sentence = "Adolf Hitler"
 
 split_sentence = sentence.split()
-rev_word = word[::-1]
-print(rev_word)
+
+for i in split_sentence:
+    crypted = i[::-1]
+print(crypted)
