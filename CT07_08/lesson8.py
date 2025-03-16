@@ -25,7 +25,10 @@ if len(pw)>=8:
     is_8char_long = True
 for i in pw:
     if i.isupper()==True:
-        has_upper == True
+        has_upper = True
 for i in pw:
     if i.islower()== True:
         has_lower = True
+for i in pw:
+    if i.isdigit()== True:
+        has_num = True
