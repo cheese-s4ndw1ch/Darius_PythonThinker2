@@ -66,3 +66,4 @@
 # i = str.split(",")
 # print(i)
 
+list = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
