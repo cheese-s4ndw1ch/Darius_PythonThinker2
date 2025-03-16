@@ -20,3 +20,7 @@ has_upper = True
 has_lower = True
 has_num = False
 only_alnum = False
+
+if len(pw)>=8:
+    is_8char_long = True
+    
