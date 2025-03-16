@@ -59,3 +59,4 @@
 
 str = "Computers are illegal cuz why not hAHAHAHAAHAHAHHAHA"
 i = str.split()
+print(i)
