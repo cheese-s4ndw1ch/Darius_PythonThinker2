@@ -57,7 +57,7 @@
 # print(output)
 
 
-output:['Computers',
+output: ['Computers',
  'empower',
  'our',
  'modern',
