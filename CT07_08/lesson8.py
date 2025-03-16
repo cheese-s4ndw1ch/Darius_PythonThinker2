@@ -7,4 +7,5 @@ lists = sorted(set(list1 + list2 + list3))
 print(lists)
 
 mid = len(lists)//2
-right = list
+right = list[mid:]
+left = list[]
