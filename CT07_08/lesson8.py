@@ -6,4 +6,4 @@ lists = sorted(set(list1 + list2 + list3))
 
 print(lists)
 
-mid = len()
+mid = len(lists)
