@@ -67,3 +67,5 @@
 # print(i)
 
 list = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
+
+separator
