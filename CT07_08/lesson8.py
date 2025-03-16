@@ -13,7 +13,7 @@
 # print(left)
 
 
-pw = input("Please enter password: ")
+pw = input("Please create password: ")
 
 is_8char_long = True
 has_upper = True
@@ -33,3 +33,4 @@ for i in pw:
     if i.isdigit()== True:
         has_num = True
 if is_8char_long and has_upper and has_lower and has_num == True:
+    print("Password accepted.")
