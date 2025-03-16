@@ -51,4 +51,4 @@ for i in text:
         output += i.lower()
         alt == False
     else:
-        output
+        output += i.upper
