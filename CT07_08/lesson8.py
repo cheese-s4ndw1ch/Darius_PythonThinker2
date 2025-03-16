@@ -63,5 +63,5 @@
 
 
 Input = "Computers,empower,our,modern,world,with,their,digital,brains"
-i = str.split()
+i = str.split("",)
 print(i)
