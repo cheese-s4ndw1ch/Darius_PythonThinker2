@@ -58,4 +58,4 @@
 
 
 str = "Computers are illegal cuz why not hAHAHAHAAHAHAHHAHA"
-i = string.split()
+i = str.split()
