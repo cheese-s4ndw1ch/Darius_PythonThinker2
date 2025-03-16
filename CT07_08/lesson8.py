@@ -32,4 +32,4 @@ for i in pw:
 for i in pw:
     if i.isdigit()== True:
         has_num = True
-    print("Your password is accepted.")
+if is_8char_long and has_upper and has_lower and has_num == True:
