@@ -48,4 +48,4 @@ output = ""
 
 for i in text: 
     if alt == True:
-        
+        output += i.lower
