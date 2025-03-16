@@ -50,3 +50,5 @@ for i in text:
     if alt == True:
         output += i.lower()
         alt == False
+    else:
+        output
