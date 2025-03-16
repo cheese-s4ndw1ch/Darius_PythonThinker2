@@ -66,10 +66,10 @@
 # i = str.split(",")
 # print(i)
 
-list = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
+# list = ['Computers', 'empower', 'our', 'modern', 'world', 'with', 'their', 'digital', 'brains.']
 
-string = ", ".join(list)
-print(string)
+# string = ", ".join(list)
+# print(string)
 
 
 word = "Adolf Hitler"
