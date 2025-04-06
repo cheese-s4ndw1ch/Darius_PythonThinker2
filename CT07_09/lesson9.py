@@ -99,6 +99,6 @@ while True:
 
 
     if ask == winner:
-        print("")
+        print("Correct! The winner is " + winner)
 
 window.mainloop()
