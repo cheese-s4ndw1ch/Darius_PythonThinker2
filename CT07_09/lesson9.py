@@ -70,9 +70,9 @@ winner = ""
 
 
 ask = input("Who shall wins?")
-gay.pendown
-sigma.pendown
-skibidi.pendown
+gay.pendown()
+sigma.pendown()
+skibidi.pendown()
 
 while True:
   
