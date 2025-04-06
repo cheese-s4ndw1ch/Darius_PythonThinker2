@@ -92,3 +92,5 @@ while True:
         winner = "skibidi"
 
         break
+
+window.mainloop()
