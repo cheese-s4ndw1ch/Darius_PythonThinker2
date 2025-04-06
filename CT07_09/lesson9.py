@@ -74,7 +74,7 @@ ask = input("Who shall wins?")
 
 gay.pendown()
 random.randint(75 , 115)
-
+gay.seth(random)
 
 
 
