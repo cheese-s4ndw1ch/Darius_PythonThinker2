@@ -73,7 +73,8 @@ ask = input("Who shall wins?")
 
 
 gay.pendown()
-random.randint()
+random.randint(75 , 115)
+
 
 
 
