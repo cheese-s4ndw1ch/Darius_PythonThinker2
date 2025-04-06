@@ -75,7 +75,8 @@ while True:
     gay.pendown()
     random.randint(75,115)
     gay.seth(random)
-    random.randint()
+    random.randint(1,20)
+    
 
     sigma.pendown()
     random.randint(75,115)
