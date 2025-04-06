@@ -84,9 +84,9 @@ while True:
     sigma.forward(random.randint(1,20))
     skibidi.forward(random.randint(1,20))
 
-    if gay.ycor() >250:
+    if gay.ycor() > 250:
         winner = "gay"
-    elif sigma.ycor >250:
+    elif sigma.ycor > 250:
         winner = "sigma"
-    elif skibidi.ycor() >250:
+    elif skibidi.ycor() > 250:
         winner = "skibidi"
