@@ -14,6 +14,6 @@ import turtle
 turtle = "t"
 turtle.penup
 def square():
-    
-
-
+    turtle.forward(20)
+    turtle.left(90)
+    turtle.forward(20)
