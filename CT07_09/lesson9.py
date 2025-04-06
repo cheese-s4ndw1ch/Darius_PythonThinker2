@@ -103,6 +103,7 @@ while True:
     else:
         print("Nope! Better luck next time!")
 
-    break
+    
+    
 
 window.mainloop()
