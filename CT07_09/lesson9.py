@@ -90,8 +90,8 @@ while True:
         winner = "sigma"
     elif skibidi.ycor() > 250:
         winner = "skibidi"
-    print(winner)
+  
 
-    break
+        break
 
 window.mainloop()
