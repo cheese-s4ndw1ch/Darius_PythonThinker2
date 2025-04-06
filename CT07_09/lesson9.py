@@ -86,7 +86,7 @@ while True:
 
     if gay.ycor() > 250:
         winner = "gay"
-    elif sigma.ycor > 250:
+    elif sigma.ycor() > 250:
         winner = "sigma"
     elif skibidi.ycor() > 250:
         winner = "skibidi"
