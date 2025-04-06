@@ -72,6 +72,8 @@ winner = ""
 ask = input("Who shall wins?")
 
 
+gay.pendown()
+
 
 
 
