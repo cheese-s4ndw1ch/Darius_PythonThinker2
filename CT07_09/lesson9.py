@@ -70,43 +70,23 @@ winner = ""
 
 
 ask = input("Who shall wins?")
+gay.pendown
+sigma.pendown
+skibidi.pendown
 
 while True:
-    gay.pendown()
-    random.randint(75,115)
-    gay.seth(random)
-    random.randint(1,20)
-    gay.forward(random)
-    if gay.ycor(>250):
-    
+  
+    gay.seth(random.randint(75,115))
+    sigma.seth(random.randint(75,115))
+    skibidi.seth(random.randint(75,115))
 
-    sigma.pendown()
-    random.randint(75,115)
+    gay.forward(random.randint(1,20))
+    sigma.forward(random.randint(1,20))
+    skibidi.forward(random.randint(1,20))
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-window.mainloop()
-
-
+    if gay.ycor() >250:
+        winner = "gay"
+    elif sigma.ycor >250:
+        winner = "sigma"
+    elif skibidi.ycor() >250:
+        winner = "skibidi"
