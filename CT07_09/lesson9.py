@@ -66,7 +66,7 @@ skibidi.goto(200, -250)
 skibidi.write("skibidi", align = "center", font=('Sarpanch', 20))
 
 
-
+winner = ""
 
 
 ask = input("Who shall wins?")
