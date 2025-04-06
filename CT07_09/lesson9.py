@@ -73,11 +73,11 @@ ask = input("Who shall wins?")
 
 while True:
     gay.pendown()
-    random.randint(75 , 115)
+    random.randint(75,115)
     gay.seth(random)
 
     sigma.pendown()
-    random
+    random.randint(75,115)
 
 
 
