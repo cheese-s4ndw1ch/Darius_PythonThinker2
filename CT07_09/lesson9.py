@@ -69,7 +69,7 @@ skibidi.write("skibidi", align = "center", font=('Sarpanch', 20))
 winner = ""
 
 
-ask = input("Who shall wins?")
+ask = input("Who gonna wins?")
 gay.pendown()
 sigma.pendown()
 skibidi.pendown()
