@@ -65,9 +65,36 @@ skibidi.color("white")
 skibidi.goto(200, -250)
 skibidi.write("skibidi", align = "center", font=('Sarpanch', 20))
 
-window.mainloop()
+
+
 
 
 ask = input("Who shall wins?")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.mainloop()
 
 
