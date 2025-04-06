@@ -77,6 +77,7 @@ while True:
     gay.seth(random)
     random.randint(1,20)
     gay.forward(random)
+    if gay.ycor(>250):
     
 
     sigma.pendown()
