@@ -94,4 +94,11 @@ while True:
 
         break
 
+
+
+
+
+    if ask == winner:
+        print
+
 window.mainloop()
