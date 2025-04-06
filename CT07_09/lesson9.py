@@ -99,11 +99,11 @@ while True:
 
 
     if ask == winner:
-        print("Correct! The winner is " + winner)
+        print("Correct! The winner is " + winner + "")
     else:
         print("Nope! Better luck next time!")
 
     
-    
+
 
 window.mainloop()
