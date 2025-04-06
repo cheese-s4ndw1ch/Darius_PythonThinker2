@@ -10,4 +10,6 @@ print("Hello from lesson 9")
 # alert()
 # alert()
 
+import turtle
+
 
