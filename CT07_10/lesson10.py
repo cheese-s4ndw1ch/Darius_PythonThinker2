@@ -1,4 +1,4 @@
-print("Hello from lesson 9")
+print("Hello from lesson 10")
 
 # def alert():
 #     print("MOTION DETECTED")
@@ -10,10 +10,36 @@ print("Hello from lesson 9")
 # alert()
 # alert()
 
-import turtle
-turtle = "t"
-turtle.penup
-def square():
-    turtle.forward(20)
-    turtle.left(90)
-    turtle.forward(20)
+# import turtle
+# t = turtle.Turtle()
+
+# window = turtle.Screen()
+
+# t.pencolor("black")
+
+# window.bgcolor("white")
+
+# t.pendown()
+# t.shape("turtle")
+
+# window.setup(300,300)
+
+# def square(width , height):
+#    for _ in range(4):
+#       t.forward(height)
+#       t.left(90)
+      
+
+# square(90,90)
+
+
+
+
+# turtle.mainloop()
+
+
+def multiply(a , b):
+ num = a * b
+ print(num)
+
+ multiply(3,5)
