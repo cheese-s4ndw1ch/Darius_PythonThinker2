@@ -43,6 +43,8 @@ t = turtle.Turtle()
 window.setup(300,300)
 
 
+
+
 def square(width , height):
     for _ in range(4):
        t.forward(height)
