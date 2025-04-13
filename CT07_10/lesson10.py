@@ -42,9 +42,13 @@ def turtleCoord(turtle_obj):
     return x,y
 
 
-square
+square(-50,50)
+
+x,y = turtleCoord(t)
+print("Turtle coordinates: " + str(x) + str(y))
 
 
+turtle.mainloop()
 
 
 
@@ -56,12 +60,14 @@ turtle.mainloop()
 
 
 #def elderly():
-    ask = print(input("How old are you?"))
-    if ask <65:
-        print(ask)
-        print("You are eligible for a discount for senior citizens!")
-    else:
-        print(ask)
-        print("You are not eligible for a discount")
+        #ask = print(input("How old are you?"))
+    #if ask <65:
+        #print(ask)
+        #print("You are eligible for a discount for senior citizens!")
+    #else:
+        #print(ask)
+        #print("You are not eligible for a discount")
 
 
+
+import random
