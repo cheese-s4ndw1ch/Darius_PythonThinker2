@@ -37,9 +37,3 @@ print("Hello from lesson 10")
 
 # turtle.mainloop()
 
-
-def multiply(a , b):
- num = a * b
- print(num)
-
-multiply(3,5)
