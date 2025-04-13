@@ -59,3 +59,4 @@ def square(width , height):
 square(90,90)
 
 
+turtle.mainloop()
