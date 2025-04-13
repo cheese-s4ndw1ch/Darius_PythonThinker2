@@ -46,4 +46,4 @@ def square(width , height):
        t.forward(height)
        t.left(90)
 
-square
+square(90,90)
