@@ -77,4 +77,5 @@ def randgen(num):
     global numbers
     number = []
     for i in range(num):
-        number = random.
+        number = random.randint(1,100)
+        
