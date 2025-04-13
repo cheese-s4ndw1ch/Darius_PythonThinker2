@@ -90,4 +90,4 @@ randgen(10)
 
 print("Smallest: " + str(min(number)))
 print("Biggest: " + str(max(number)))
-avg = sum(number)
+avg = sum(number)/len(number)
