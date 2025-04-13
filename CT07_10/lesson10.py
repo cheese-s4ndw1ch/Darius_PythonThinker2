@@ -78,4 +78,4 @@ def randgen(num):
     number = []
     for i in range(num):
         number = random.randint(1,100)
-        
+        numbers.append
