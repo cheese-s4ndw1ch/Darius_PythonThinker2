@@ -40,4 +40,4 @@ print("Hello from lesson 10")
 
 
 def elderly():
-    print
+    print(input("How old are you?"))
