@@ -35,4 +35,4 @@ print("Hello from lesson 10")
 
 
 
-# turtle.mainloop(def elderly
+# turtle.mainloop()
