@@ -39,7 +39,7 @@ def square(width , height):
 
 
 
-def elderly():
+#def elderly():
     ask = print(input("How old are you?"))
     if ask <65:
         print(ask)
