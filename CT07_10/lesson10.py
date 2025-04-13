@@ -40,4 +40,5 @@ print("Hello from lesson 10")
 
 
 def elderly():
-    print(input("How old are you?"))
+    ask = print(input("How old are you?"))
+    if ask <65
