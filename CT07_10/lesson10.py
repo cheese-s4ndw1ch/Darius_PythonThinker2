@@ -49,5 +49,3 @@ def square(width , height):
         print("You are not eligible for a discount")
 
 
-
-elderly
