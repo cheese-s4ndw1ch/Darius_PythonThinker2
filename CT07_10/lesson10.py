@@ -38,7 +38,7 @@ print("Hello from lesson 10")
 # turtle.mainloop()
 
 import turtle
-
+window = turtle.Screen()
 t = turtle.Turtle()
 window.setup(300,300)
 
