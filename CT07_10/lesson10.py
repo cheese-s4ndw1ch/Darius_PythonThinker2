@@ -74,4 +74,5 @@ import random
 
 
 def randgen(num):
-    glob
+    global numbers
+    number = 
