@@ -71,3 +71,7 @@ turtle.mainloop()
 
 
 import random
+
+
+def randgen(num):
+    glob
