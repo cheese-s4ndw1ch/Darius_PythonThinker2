@@ -9,20 +9,19 @@ print("Hello from lesson 10")
 # alert()
 # alert()
 # alert()
+import turtle
+t = turtle.Turtle()
 
-# import turtle
-# t = turtle.Turtle()
+window = turtle.Screen()
 
-# window = turtle.Screen()
+t.pencolor("black")
 
-# t.pencolor("black")
+window.bgcolor("white")
 
-# window.bgcolor("white")
+t.pendown()
+t.shape("turtle")
 
-# t.pendown()
-# t.shape("turtle")
-
-# window.setup(300,300)
+window.setup(300,300)
 
 def square(width , height):
     for _ in range(4):
@@ -35,7 +34,24 @@ def square(width , height):
 
 
 
-# turtle.mainloop()
+def turtleCoord(turtle_obj):
+
+    x = turtle_obj.xcor()
+    y = turtle_obj.ycor()
+
+    return x,y
+
+
+square
+
+
+
+
+
+
+
+
+turtle.mainloop()
 
 
 
