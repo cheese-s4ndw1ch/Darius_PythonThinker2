@@ -40,6 +40,7 @@ print("Hello from lesson 10")
 import turtle
 
 t = turtle.Turtle()
+window.setup(300,300)
 
 
 def square(width , height):
