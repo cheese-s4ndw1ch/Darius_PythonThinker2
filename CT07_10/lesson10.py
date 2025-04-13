@@ -74,6 +74,7 @@ import random
 
 
 def randgen(num):
+    number = []
     global numbers
     number = []
     for i in range(num):
