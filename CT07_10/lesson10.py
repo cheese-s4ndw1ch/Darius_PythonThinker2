@@ -89,4 +89,4 @@ randgen(10)
 
 
 print("Smallest: " + str(min(number)))
-print("Biggest")
+print("Biggest: " + str)
