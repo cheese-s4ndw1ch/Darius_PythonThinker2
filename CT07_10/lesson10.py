@@ -74,12 +74,12 @@ import random
 
 
 def randgen(num):
-    number = []
-    global numbers
+    
+    global number
     number = []
     for i in range(num):
         number = random.randint(1,100)
-        numbers.append(number)
+        number.append(number)
         print(number)
 
 
@@ -88,4 +88,4 @@ def randgen(num):
 randgen(10)
 
 
-print("Smallest: " + str(min(numbers)))
+print("Smallest: " + str(min(number)))
