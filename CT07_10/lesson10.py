@@ -88,4 +88,4 @@ def randgen(num):
 randgen(10)
 
 
-print("Smallest")
+print("Smallest: " +)
