@@ -42,6 +42,7 @@ print("Hello from lesson 10")
 def elderly():
     ask = print(input("How old are you?"))
     if ask <65:
+        print(ask)
         print("You are eligible for a discount for senior citizens!")
     else:
-        print
+        print(ask)
