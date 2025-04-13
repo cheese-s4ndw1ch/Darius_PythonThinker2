@@ -43,6 +43,12 @@ t = turtle.Turtle()
 window.setup(300,300)
 
 
+t.pencolor("black")
+
+window.bgcolor("white")
+
+t.pendown()
+t.shape("turtle")
 
 
 def square(width , height):
