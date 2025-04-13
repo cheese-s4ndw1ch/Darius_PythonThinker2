@@ -89,4 +89,5 @@ randgen(10)
 
 
 print("Smallest: " + str(min(number)))
-print("Biggest: " + str(max(bumber)))
+print("Biggest: " + str(max(number)))
+avg 
