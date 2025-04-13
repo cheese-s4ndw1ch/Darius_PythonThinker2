@@ -80,3 +80,6 @@ def randgen(num):
         number = random.randint(1,100)
         numbers.append(number)
         print(number)
+
+
+randgen(10)
