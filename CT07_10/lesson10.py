@@ -46,3 +46,8 @@ def elderly():
         print("You are eligible for a discount for senior citizens!")
     else:
         print(ask)
+        print("You are not eligible for a discount")
+
+
+
+el
