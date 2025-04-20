@@ -137,7 +137,7 @@ def initialise_board():
             row.append(' ')
         board.append(row)
 
-        
+    return board
 
 
     
