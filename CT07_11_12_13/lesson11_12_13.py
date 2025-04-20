@@ -22,6 +22,8 @@ def print_board():
         for cell in row:
             if cell != ' ':
                 print(" " + str(cell) + " " , end="")
+            else:
+                print()
         
 
 
