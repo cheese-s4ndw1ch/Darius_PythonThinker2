@@ -30,7 +30,7 @@ def print_board(board):
 
             if (cell_number) <=9:
                 print("/n----------")
-            
+    print("/n")
         
 
 
