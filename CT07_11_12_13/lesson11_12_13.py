@@ -21,3 +21,4 @@ def print_board():
 
 
 print(initialise_board()) 
+print_board(board)
