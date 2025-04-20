@@ -28,7 +28,7 @@ def print_board(board):
                 print("|", end="")
             cell_number += 1
 
-            if (cell_number) >9:
+            if (cell_number) <=9:
                 print("/n----------")
         
 
