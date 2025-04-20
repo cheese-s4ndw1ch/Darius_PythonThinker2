@@ -102,17 +102,31 @@ print("Avg: " + str(avg))
 
 
 
-list-
-+
+list_game = ["rock", "paper", "scissors"]
+def generate_computer_move():
+    return random.choice(list_game)
 
+computer_move = generate_computer_move()
+print("Computer move:" + computer_move)
 
+player_move = input("Enter your move (rock, paper, scissors): ").lower()
 
+def determine_winner():
+    if player_move == generate_computer_move:
+        print("Tie!")
+if player_move == "rock":
+    if computer_move == "scissors":
+        print("You won!")
+    else:
+        print("You lose!")
+if player_move == "paper":
+    if computer_move == "rock":
+        print("You won!")
+    else:
+        print("You lose!")
+if player_move == "scissors":
+    if computer_move == "paper":
+        print("You won!")
+    else:
+        print("You lose!")
 
-def generate_comp_move:
-
-
-
-
-
-
-def determine_winner:
