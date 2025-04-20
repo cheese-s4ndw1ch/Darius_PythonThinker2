@@ -10,5 +10,5 @@ def initialise_board():
 
     return board
 
-
-print(initialise_board()) 
+def print_board():
+    print(initialise_board()) 
