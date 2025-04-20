@@ -13,4 +13,12 @@ def initialise_board():
 cell_number = 1
 
 def print_board():
-    print(initialise_board()) 
+    print()
+
+
+
+
+
+
+
+print(initialise_board()) 
