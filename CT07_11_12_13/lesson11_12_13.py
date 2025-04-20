@@ -27,6 +27,9 @@ def print_board():
             if cell_number % 3 !=0:
                 print("|", end="")
             cell_number += 1
+
+            if (cell_number) >9:
+                print
         
 
 
