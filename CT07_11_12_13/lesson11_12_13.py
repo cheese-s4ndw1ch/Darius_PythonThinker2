@@ -24,6 +24,8 @@ def print_board():
                 print(" " + str(cell) + " " , end="")
             else:
                 print(" " + str(cell_number) + " ", end="")
+            if cell_number % 3 !=0:
+                print()
         
 
 
