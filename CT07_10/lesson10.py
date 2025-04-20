@@ -135,7 +135,7 @@ def initialise_board():
         row = []
         for j in range(3):
             row.append(' ')
-            
+        board.append(row)
 
 
     
