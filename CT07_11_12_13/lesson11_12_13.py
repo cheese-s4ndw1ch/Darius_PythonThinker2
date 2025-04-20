@@ -10,5 +10,7 @@ def initialise_board():
 
     return board
 
+cell
+
 def print_board():
     print(initialise_board()) 
