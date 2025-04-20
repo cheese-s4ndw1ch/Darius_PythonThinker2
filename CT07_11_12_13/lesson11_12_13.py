@@ -29,7 +29,7 @@ def print_board():
             cell_number += 1
 
             if (cell_number) >9:
-                print("/n------")
+                print("/n----------")
         
 
 
