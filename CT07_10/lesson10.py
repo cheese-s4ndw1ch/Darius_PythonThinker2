@@ -131,3 +131,5 @@ print("Avg: " + str(avg))
 #         print("You lose!")
 
 row = []
+for i in range(3):
+    row.append()
