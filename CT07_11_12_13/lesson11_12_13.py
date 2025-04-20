@@ -17,7 +17,7 @@ def print_board():
     cell_number = 1
     for row in board:
         for cell in row:
-            print("" + str(cell) + " ")
+            print("" + str(cell) + " ", )
 
 
 
