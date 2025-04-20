@@ -92,3 +92,26 @@ print("Smallest: " + str(min(number)))
 print("Biggest: " + str(max(number)))
 avg = sum(number)/len(number)
 print("Avg: " + str(avg))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+def generate_comp_move:
+
+
+
+
+
+
+def determine_winner:
