@@ -10,7 +10,7 @@ def initialise_board():
 
     return board
 
-cell
+cell_number = 1
 
 def print_board():
     print(initialise_board()) 
