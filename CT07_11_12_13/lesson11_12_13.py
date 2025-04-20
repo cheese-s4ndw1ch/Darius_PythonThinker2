@@ -15,7 +15,7 @@ def initialise_board():
 
 cell_number = 1
 
-def print_board():
+def print_board(board):
     print("/nBoard Layout: ")
     cell_number = 1
     for row in board:
