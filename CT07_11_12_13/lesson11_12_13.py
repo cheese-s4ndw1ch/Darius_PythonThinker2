@@ -23,7 +23,7 @@ def print_board():
             if cell != ' ':
                 print(" " + str(cell) + " " , end="")
             else:
-                print()
+                print(" " + str)
         
 
 
