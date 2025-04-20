@@ -130,3 +130,4 @@ print("Avg: " + str(avg))
 #     else:
 #         print("You lose!")
 
+row = []
