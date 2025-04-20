@@ -20,9 +20,4 @@ def print_board():
             print(" " + str(cell) + " " , end="")
 
 
-
-
-
-
-
 print(initialise_board()) 
