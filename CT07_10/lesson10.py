@@ -102,7 +102,8 @@ print("Avg: " + str(avg))
 
 
 
-
+list-
++
 
 
 
