@@ -130,13 +130,10 @@ print("Avg: " + str(avg))
 #     else:
 #         print("You lose!")
 def initialise_board():
-    row = []
-    for i in range(3):
-        row.append(' ')
     board = []
     for i in range(3):
-        board.append(row)
-
+        row = []
+        
 
 
 
