@@ -15,6 +15,9 @@ cell_number = 1
 def print_board():
     print("/nBoard Layout: ")
     cell_number = 1
+    for row in board:
+        for cell in row:
+            print("")
 
 
 
