@@ -138,6 +138,6 @@ def initialise_board():
         board.append(row)
 
 
-initialise_board
+
 
     
