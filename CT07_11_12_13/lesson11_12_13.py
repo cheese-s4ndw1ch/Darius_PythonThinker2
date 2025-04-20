@@ -1,5 +1,8 @@
 print("Hello from lesson 11_12_13")
 
+
+board = []
+
 def initialise_board():
     
     for i in range(3):
