@@ -13,7 +13,7 @@ def initialise_board():
 cell_number = 1
 
 def print_board():
-    print("/nBoard Layout;")
+    print("/nBoard Layout: ")
 
 
 
