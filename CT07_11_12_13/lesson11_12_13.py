@@ -33,7 +33,7 @@ def print_board(board):
     print("\n")
         
 
-def get_player_move():
+def get_player_move(board):
     move_input = input("Enter your move (1-9): ")
     move = int(move_input) - 1
     row = move //3
