@@ -42,6 +42,5 @@ def get_player_move():
 
 
 bosrd = initialise_board()
-print(initialise_board()) 
 print_board(board)
-
+get
