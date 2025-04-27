@@ -2,7 +2,7 @@
 
 
 board = []
-winning_conditions = [[board[0][0]], [board[0][1]], ]
+winning_conditions = [[board[0][0]], [board[0][1]], [board[0][2]],4]
 def initialise_board():
     
     for i in range(3):
