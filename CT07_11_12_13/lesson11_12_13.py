@@ -42,7 +42,8 @@ def get_player_move(board):
             col = move % 3
             if board[row][col] == " ":
                 board[row][col] = 'X'
-        
+            else:
+                peint
         else:
             print("Invalid input! Please enter a value between 1-9.")
     else:
