@@ -53,9 +53,9 @@ while True:
 
 
 
-print_board(board)
-get_player_move(board)
-print_board(board)
+    print_board(board)
+    get_player_move(board)
+    print_board(board)
 
 
 
