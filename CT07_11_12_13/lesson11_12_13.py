@@ -35,6 +35,8 @@ def print_board(board):
 
 
 move = int(move_input) - 1
+row = move //3
+
 
 
 
