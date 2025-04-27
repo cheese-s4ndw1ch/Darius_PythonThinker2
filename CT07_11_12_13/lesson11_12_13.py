@@ -40,8 +40,8 @@ def get_player_move(board):
             move = int(move_input) - 1
             row = move //3
             col = move % 3
-        if board[row][col] == " ":
-            board[row][col] = 'X'
+            if board[row][col] == " ":
+                board[row][col] = 'X'
         
         else:
             print("Invalid input! Please enter a value between 1-9.")
