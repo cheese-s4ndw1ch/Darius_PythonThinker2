@@ -43,7 +43,7 @@ def get_player_move(board):
             if board[row][col] == " ":
                 board[row][col] = 'X'
             else:
-                peint
+                print("This space is already taken")
         else:
             print("Invalid input! Please enter a value between 1-9.")
     else:
