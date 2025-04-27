@@ -34,6 +34,7 @@ def print_board(board):
         
 
 def get_player_move():
+    move_input = input()
     move = int(move_input) - 1
     row = move //3
     col = move % 3
