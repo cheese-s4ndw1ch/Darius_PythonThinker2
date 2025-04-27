@@ -35,10 +35,16 @@ def print_board(board):
 
 def get_player_move(board):
     move_input = input("Enter your move (1-9): ")
-    move = int(move_input) - 1
-    row = move //3
-    col = move % 3
-    board[row][col] = 'X'
+    if move_input.isdigit():
+        if int(move_input) >= 0 and int(move_input)  <=9:
+            move = int(move_input) - 1
+            row = move //3
+            col = move % 3
+            board[row][col] = 'X'
+        else:
+            print("Invalid input! Please enter a value between 1-9.")
+    else:
+        print("Invalid input! Please enter a number")
 
 
 board = initialise_board()
